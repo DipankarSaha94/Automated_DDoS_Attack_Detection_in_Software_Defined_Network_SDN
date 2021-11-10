@@ -1,4 +1,4 @@
-# Automated DDoS Attack Detection In SDN
+# Automated DDoS Attack Detection in Software Defined Network(SDN)
 
 ## Course: Advanced Computer Networks
 
@@ -63,9 +63,3 @@ A: Attack
   
 
 
-
-### Team:  
-Dipankar Saha 2020201084  
-Aditya Mahajan 2020202017  
-Suman Mitra 2020202018
-# Automated-DDoS-Attack-Detection-in-Software-Defined-Network-SDN-
